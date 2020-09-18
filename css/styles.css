@@ -10146,6 +10146,10 @@ h3 {
   width: 15rem;
 }
 
+.masthead .picture {
+  width: 350px;
+}
+
 @media (min-width: 992px) {
   .masthead {
     padding-top: calc(6rem + 104px);
