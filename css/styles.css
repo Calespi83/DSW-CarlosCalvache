@@ -10148,6 +10148,7 @@ h3 {
 
 .masthead .picture {
   width: 310px;
+  text-align: center;
 }
 
 @media (min-width: 992px) {
