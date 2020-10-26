@@ -10040,9 +10040,9 @@ h3 {
 .divider-custom.divider-light .divider-custom-line {
   background-color: #fff;
 }
-.divider-custom.divider-light .divider-custom-icon {
-  color: #fff !important;
-}
+    .divider-custom.divider-light .divider-custom-icon {
+        color: #DAA827 !important;
+    }
 
 .btn-xl {
   padding: 1rem 1.75rem;
