@@ -10386,6 +10386,10 @@ button.bg-dark:focus {
     color: #fff !important;
 }
 
+.text-unad {
+    color: #1F4568 !important;
+}
+
 .text-primary {
     color: #1abc9c !important;
 }
@@ -10896,7 +10900,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-    background-color: #1a252f;
+    background-color: #CC6826;
 }
 
 .logounad {
