@@ -10037,9 +10037,9 @@ h3 {
   color: #2c3e50 !important;
   font-size: 2rem;
 }
-.divider-custom.divider-light .divider-custom-line {
-  background-color: #fff;
-}
+    .divider-custom.divider-light .divider-custom-line {
+        background-color: #DAA827;
+    }
     .divider-custom.divider-light .divider-custom-icon {
         color: #DAA827 !important;
     }
