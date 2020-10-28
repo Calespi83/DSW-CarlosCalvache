@@ -10891,7 +10891,8 @@ form .row:first-child .floating-label-form-group {
 
 .titulo_imagen {
     text-align: center;
-    color: #0B173B;
+    color: #0308ff;
+	font-size: 24px;
 }
 
 .copyright {
