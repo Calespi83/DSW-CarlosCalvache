@@ -372,6 +372,7 @@ h1, .h1 {
 	font-family: 'Franklin Gothic';
 	font: bold;
 	text-transform: uppercase !important;
+	align-items: center !important;
 }
 
 h2, .h2 {
@@ -380,11 +381,12 @@ h2, .h2 {
 	font-family: 'Franklin Gothic';
 	font: bold;
 	text-transform: uppercase !important;
+	align-items: center !important;
 }
 
 h3, .h3 {
     font-size: 1.75rem;
-	color: #d96522;
+	color: #d28a61;
 	font-family: 'Franklin Gothic'
 	text-transform: uppercase !important;
 }
