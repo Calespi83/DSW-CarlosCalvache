@@ -396,6 +396,7 @@ h4, .h4 {
 	color: #fff;
 	font-family: 'Franklin Gothic';
 	text-align: justify;
+	text-transform: initial;
 }
 
 h5, .h5 {
