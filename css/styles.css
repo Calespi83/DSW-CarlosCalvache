@@ -10929,7 +10929,10 @@ form .row:first-child .floating-label-form-group {
     font-size: 26px;
 }
 
-
+.block{
+	display: block;
+	padding: 4px;
+}
 
 
 
