@@ -10932,4 +10932,5 @@ form .row:first-child .floating-label-form-group {
 .block{
 	display: block;
 	padding: 4px;
+	text-align: center;
 }
